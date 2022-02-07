@@ -1,13 +1,13 @@
 # Katie-Reider
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
 
-I fool around and complete projects for class :)
+I tend to explore and complete projects for class :)
 
 I'm currently learning about web development and some data visualization.
 
-Check out my personal portfolio here: <a href="https://katiereiderportfolio.netlify.app/" target="_blank"> Portfolio </a>
-
 --- 
+
+Check out my personal portfolio here: <a href="https://katiereiderportfolio.netlify.app/" target="_blank"> Portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -26,7 +26,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.
 src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="CSS" width="50" height="50"/>  <img 
 src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="CSS" width="50" height="50"/>  <img
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="CSS" width="50" height="50"/>  <img
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>  
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50"/>  
 
 ---
 

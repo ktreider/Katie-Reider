@@ -1,13 +1,11 @@
 # Katie-Reider
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
 
-Experience with the technologies listed in the **toolbox** below.
-
 I fool around and complete projects for class :)
 
 I'm currently learning about web development and some data visualization.
 
-Check out my personal portfolio: <a href="https://katiereiderportfolio.netlify.app/" target="_blank"> Portfolio </a>
+Check out my personal portfolio here: <a href="https://katiereiderportfolio.netlify.app/" target="_blank"> Portfolio </a>
 
 --- 
 
@@ -21,16 +19,16 @@ Check out my personal portfolio: <a href="https://katiereiderportfolio.netlify.a
 
 ### 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>  
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/ktreider/Katie-Reider">
+<a href="https://github.com/ktreider/KatieReider">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktreider&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/ktreider/Katie-Reider">
+<a href="https://github.com/ktreider/KatieReider">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktreider&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 

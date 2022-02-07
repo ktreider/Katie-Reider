@@ -24,7 +24,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt
 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="CSS" width="50" height="50"/>  <img 
 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="CSS" width="50" height="50"/>  <img
 src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="CSS" width="50" height="50"/>  <img 
-src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="CSS" width="50" height="50"/>  <img
+src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain.svg" alt="CSS" width="50" height="50"/>  <img
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="CSS" width="50" height="50"/>  <img
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>  
 

@@ -1,5 +1,5 @@
 # Katie Reider
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3px">, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
 
 I tend to explore and complete projects for class :)
 
@@ -33,7 +33,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmar
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/ktreider/ktreider">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktreider&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktreider&hide=jupyternotebooks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/ktreider/ktreider">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktreider&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />

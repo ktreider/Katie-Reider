@@ -1,5 +1,5 @@
 # Katie Reider
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
+# Hi there <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width="30px">, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
 
 I tend to explore and complete projects for class :)
 

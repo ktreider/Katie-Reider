@@ -1,5 +1,5 @@
-# Katie Reider
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Reider</a>
+# Katie Redmond
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I am <a href="https://www.linkedin.com/in/katiereider/" target="_blank">Katie Redmond</a>
 
 I tend to explore and complete projects for class :)
 
@@ -11,7 +11,7 @@ Check out my personal portfolio here: <a href="https://katiereiderportfolio.netl
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/katiereider/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/katieredmondd/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ktreider5@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
